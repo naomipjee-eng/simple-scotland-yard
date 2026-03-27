@@ -13,9 +13,9 @@ var ssy_cfg={
     'rules': { // {{{
         // maximum moves allowed for detectives
         'moves_d': {
-            'T': 11,
-            'B': 8,
-            'U': 4,
+            'T': 99,
+            'B': 99,
+            'U': 99,
         },
         // maximum moves allowed for X ('X' = hidden moves & ferry, '2' = double moves)
         'moves_x': {
